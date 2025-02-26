@@ -1,0 +1,10 @@
+[package]
+name = "portScanner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "3.0.0"
+clap = { version = "4.5.31", features = ["derive", "wrap_help"] }
+tokio = { version = "1.43.0", features = ["rt-multi-thread", "full"] }
+cidr = "0.3.1"
