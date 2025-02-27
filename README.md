@@ -13,7 +13,7 @@ A simple, fast, and concurrent port scanner written in Rust using Tokio for asyn
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rust-port-scanner.git
+git clone https://github.com/NabilKara/Simple_Rust_port_scanner.git
 cd rust-port-scanner
 
 # Build the project
